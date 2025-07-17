@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Montrich 👋</h1>
 <p align="center">
   🎮 Blockchain Game Developer | 🇭🇰 Based in Hong Kong  
-  <br />
-  📫 Reach me: <a href="mailto:montrich09@outlook.com">montrich09@outlook.com</a>
+  <br />  
 </p>
 
 ---
