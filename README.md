@@ -9,6 +9,8 @@
 
 ## 🏆 Achievements
 
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?logo=github)
+
 ![Unity Expert](https://img.shields.io/badge/Unity-Expert-black?logo=unity)
 ![Web3.js Master](https://img.shields.io/badge/Web3.js-Master-green?logo=web3dotjs)
 ![Smart Contract Wizard](https://img.shields.io/badge/Solidity-Wizard-363636?logo=solidity)
