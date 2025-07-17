@@ -9,23 +9,12 @@
 
 ## 🏆 Achievements
 
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?logo=github)
-
 ![Unity Expert](https://img.shields.io/badge/Unity-Expert-black?logo=unity)
 ![Web3.js Master](https://img.shields.io/badge/Web3.js-Master-green?logo=web3dotjs)
 ![Smart Contract Wizard](https://img.shields.io/badge/Solidity-Wizard-363636?logo=solidity)
 ![Unreal Engine Dev](https://img.shields.io/badge/Unreal-GameDev-0d1117?logo=unrealengine)
 ![Next.js Fullstack](https://img.shields.io/badge/Next.js-Fullstack-000000?logo=nextdotjs)
 ![Laravel Backend](https://img.shields.io/badge/Laravel-Backend-red?logo=laravel)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=montrich&show_icons=true&theme=github_dark&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montrich&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
-</p>
 
 ---
 
